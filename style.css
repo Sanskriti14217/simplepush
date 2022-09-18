@@ -1,0 +1,11 @@
+body{
+    background-image: url(https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-size:cover ;
+    background-repeat: no-repeat;
+}
+.main{
+    text-align: center;
+}
+.main2{
+    margin-top: 50px;
+}
